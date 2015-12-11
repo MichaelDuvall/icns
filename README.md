@@ -8,15 +8,17 @@ How to create an ICNS file (Apple Icon Image) for OS X apps -- a simplified remi
 
 Filename ---------- Image Size (in pixels)
 _____________________________________________________________________________________________________
-icon_512x512@2x.png	1024 x 1024 <br>
+(at) = @
+
+icon_512x512(at)2x.png	1024 x 1024 <br>
 icon_512x512.png	512 x 512<br>
-icon_256x256@2x.png	512 x 512<br>
+icon_256x256(at)2x.png	512 x 512<br>
 icon_256x256.png	256 x 256<br>
-icon_128x128@2x.png	256 x 256<br>
+icon_128x128(at)2x.png	256 x 256<br>
 icon_128x128.png	128 x 128<br>
-icon_32x32@2x.png	64 x 64<br>
+icon_32x32(at)2x.png	64 x 64<br>
 icon_32x32.png		32 x 32<br>
-icon_16x16@2x.png	32 x 32<br>
+icon_16x16(at)2x.png	32 x 32<br>
 icon_16x16.png		16 x 16<br>
 _____________________________________________________________________________________________________
 
